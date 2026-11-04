@@ -1,0 +1,6 @@
+{
+  "name": "MoneyFlow",
+  "description": "Multi-user personal and family money management web application to track income, expenses, accounts, budgets, savings, debts, recurring payments, and smart financial reports with Indian Rupee (₹) formatting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
